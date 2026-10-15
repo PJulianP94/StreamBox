@@ -1,5 +1,4 @@
 package com.StreamBox.backend.User;
-
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
